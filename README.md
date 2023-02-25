@@ -1,6 +1,6 @@
 # MambaString Session Bot Generator
 
-[![deploy](https://te.legra.ph/file/d17467283e73c884834a5.jpg)](https://heroku.com/deploy?template=https://github.com/FantasticSukhi/StringGeneratorPro)
+[![deploy](https://te.legra.ph/file/.jpg)](https://heroku.com/deploy?template=https://github.com/FantasticSukhi/StringGeneratorPro)
 
 👆👆
 YOU Can click on above Image to deploy 
