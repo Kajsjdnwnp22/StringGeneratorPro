@@ -1,0 +1,6 @@
+heroku3
+pyrogram
+pyromod
+TgCrypto
+asyncio
+telethon
